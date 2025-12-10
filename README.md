@@ -1,144 +1,87 @@
-##🛡️ LAGING HANDA
+## 🛡️ LAGING HANDA 
 
-A Turn-Based RPG of Philippine Myth and Destiny
+A **Turn-Based RPG** of Philippine *Myth* and *Destiny*
 
-Laging Handa is a Java + GUI, story-driven, turn-based RPG inspired by classic Pokémon mechanics, 
+Laging Handa is a Java + GUI, story-driven, turn-based RPG inspired by classic **Pokémon** mechanics, 
 but instead of cute creatures, you face the dark, powerful beings of Philippine mythology. 
 Build your strength, strategize your moves, and confront ancient monsters born from folklore and fear.
+____________________________
+
+**In this world, every battle is a test of courage.
+Every choice pushes you closer to becoming the *hero* fate demands.**
 
 ______________________________________________________________________________________________________________________
 
-In this world, every battle is a test of courage.
-Every choice pushes you closer to becoming the hero fate demands.
+## ⚔️ FEATURES
 
-⚔️ Features
+**TURN-BASED COMBAT SYSTEM**
 
-Turn-Based Combat System
 Strategy-heavy battles where every move, skill, and recovery counts.
 
-Mythological Filipino Creatures
+______________________________________________________________________________________________________________________
+
+**MYTHOLOGICAL PHILIPPINE CREATURES**
+
 Fight legendary beings like:
 
-Tikbalang
+- Tikbalang
+- Manananggal
+- Aswang
+- **MANY MORE!**
 
-Manananggal
+______________________________________________________________________________________________________________________
 
-Aswang
+**RPG PROGRESSION**
 
-Kapre
+Level up, and strengthen your attributes.
 
-Tiyanak
+*Many things will be added soon.*
 
-Bakunawa (boss)
+______________________________________________________________________________________________________________________
 
-RPG Progression
-Level up, strengthen your attributes, and unlock new abilities.
+## 🛠️ TECH STACK
 
-Java GUI Experience
-Built with Java and graphical interface components for a clean, nostalgic RPG feel.
+- Java
 
-Randomized Damage Mechanics
-Every battle is unpredictable — victories must be earned.
+- Swing / JavaFX GUI
 
-🌏 Story Overview
+- Object-oriented battle system
 
-The world is shifting.
-An ancient force has awakened beneath the islands — a power older than memory, older than myth itself. You are chosen, not by destiny, but by necessity, to confront the chaos rising from the shadows.
+- Modular code structure for monsters, player stats, combat mechanics
 
-Armed with courage, instinct, and the will to survive, you must face the creatures of legend and uncover the truth behind the disturbance threatening the land.
+______________________________________________________________________________________________________________________
 
-In the world of the supernatural, only one mantra matters: Laging Handa.
-Always prepared.
+## 🚧 DEVELOPMENT ROADMAP
 
-🎮 Gameplay
+- Turn-based combat prototype
 
-Choose your actions: Attack, Defend, Use Item, Special Skill
+- Monster base classes
 
-Manage HP, attack power, and defense stats
+- GUI overhaul (battle UI, menus, animations)
+  
+- Inventory + items system
+  
+- Boss fights
+  
+- SFX + background music
 
-Take advantage of elemental and creature-type weaknesses
+- Save/Load system
 
-Fight 1v1, turn-based battles
+______________________________________________________________________________________________________________________
 
-Win rewards, experience, and storyline progress after each victory
-
-🛠️ Tech Stack
-
-Java
-
-Swing / JavaFX GUI
-
-Object-oriented battle system
-
-Modular code structure for monsters, player stats, combat mechanics
-
-📁 Project Structure (Suggested)
-/src
-   /entities
-   /monsters
-   /combat
-   /ui
-   /items
-   /utils
-/assets
-   /sprites
-   /backgrounds
-   /music
-/docs
-   lore.md
-   monsters.md
-   mechanics.md
-README.md
-LICENSE
-
-🧿 Monsters Included
-
-A growing roster of Philippine mythological entities:
-
-Creature	Description
-Tikbalang	A horse-headed trickster guarding forgotten pathways.
-Manananggal	A night-stalking predator that splits its body.
-Aswang	A shapeshifting terror feared for centuries.
-Kapre	A towering, smoke-wreathed forest giant.
-Tiyanak	A deadly spirit masquerading as an infant.
-Bakunawa	The serpent dragon that devours moons.
-🚧 Development Roadmap
-
- Turn-based combat prototype
-
- Monster base classes
-
- GUI overhaul (battle UI, menus, animations)
-
- Inventory + items system
-
- Skill trees and special abilities
-
- Boss fights and storyline events
-
- SFX + background music
-
- Save/Load system
-
-📜 How to Run
-
-Clone this repository
-
-Open the project in your Java IDE (IntelliJ / NetBeans / Eclipse)
-
-Run the main GUI file:
-
-java Main.java
-
-
-Fight monsters. Survive. Become legendary.
-
-🔥 Contribute
+## 🔥 CONTRIBUTION
 
 Pull requests, suggestions, and improvements are welcome.
-Help build the most authentically Filipino RPG on GitHub.
 
-🐉 License
+But if you want to join to the development of this game, feel free to contact me at *ahmadbanaag8@gmail.com*
 
-Choose your preferred license (MIT, GPL, Apache).
-I can generate this section for you.
+______________________________________________________________________________________________________________________
+
+## 👥 PARTNERS
+
+- Ceasar Ryan Q. Lorenzo (18 years old, a first-year student, studying Information Technology - Major in Business Technology Management at the University of Southeastern Philippines)
+
+______________________________________________________________________________________________________________________
+
+> This will be a progressive development, creating this game to learn more about software programming and also game development. 
+
