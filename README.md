@@ -1,7 +1,12 @@
-🛡️ LAGING HANDA
+##🛡️ LAGING HANDA
+
 A Turn-Based RPG of Philippine Myth and Destiny
 
-Laging Handa is a Java + GUI, story-driven, turn-based RPG inspired by classic Pokémon mechanics — but instead of cute creatures, you face the dark, powerful beings of Philippine mythology. Build your strength, strategize your moves, and confront ancient monsters born from folklore and fear.
+Laging Handa is a Java + GUI, story-driven, turn-based RPG inspired by classic Pokémon mechanics, 
+but instead of cute creatures, you face the dark, powerful beings of Philippine mythology. 
+Build your strength, strategize your moves, and confront ancient monsters born from folklore and fear.
+
+______________________________________________________________________________________________________________________
 
 In this world, every battle is a test of courage.
 Every choice pushes you closer to becoming the hero fate demands.
