@@ -1,0 +1,15 @@
+LagingHanda: A Mythological RPG-Turn Based Games based on Philippine Mythological Creatures (DEVLOG)
+
+#3 Devlog(Asaixc) (12-14-2025) - Coding the first battle
+
+## What did I do?
+- So, today I tried to code the battle in a different file named "testBattle".
+- I've used a method for just clearing the console but it literally just add a space between the code before and during the battle. 
+- I was planning to do a static hp points for each creature and end up creating a random hp for each creatures using a "RANDOM" package with the name "dice". 
+- I think I will just screen record each of my code as documentation kay kapoy ug type sini. Mas dali lang i-explain through screen record HAHAH
+- I also add a function where the creature can heal itself but it depends on the number that they get. They can also input but it is randomized, and they are most likely to attack. 
+- I will add the kind of attribute attack later or soon kay kapoy.
+- And I've added a function to when the player dies then they will just try again or whatever. 
+- I will add the delay later.
+
+- END OF LOG -
