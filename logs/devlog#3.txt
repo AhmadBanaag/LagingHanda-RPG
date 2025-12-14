@@ -10,6 +10,7 @@ LagingHanda: A Mythological RPG-Turn Based Games based on Philippine Mythologica
 - I also add a function where the creature can heal itself but it depends on the number that they get. They can also input but it is randomized, and they are most likely to attack. 
 - I will add the kind of attribute attack later or soon kay kapoy.
 - And I've added a function to when the player dies then they will just try again or whatever. 
-- I will add the delay later.
+- I will add the delay tomorrow.
+- I will also fix on how to remove a specific String in an array. 
 
 - END OF LOG -
