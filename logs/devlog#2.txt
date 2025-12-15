@@ -1,0 +1,9 @@
+Devlog #2 (12-15-2025) - Starting Something
+
+## What happened?
+- We decided to first create a java game using only the CLI, raw java coding only.
+- We created the plot na, pero kulang para ng refinement.
+- Aayusin pa, and it we be decision-based story, it's going the be epic.
+- The script is already up!
+
+- END OF LOG -
