@@ -1,0 +1,11 @@
+LagingHanda: A Mythological RPG-Turn Based Games based on Philippine Mythological Creatures (DEVLOG)
+
+#1 Devlog(Asaixc) (12-11-2025) - Trying to code something
+
+## What did I do?
+- I tried to create a simple intro for a minigame. Just like how I am planning to do something. So basically, I tried using a "Thread.sleep" function to create a delay in each monologue or text. So that is would feel like a monologue, dialogue or something like that.
+- Also, I tried using a method for the instructions. Just practicing intermediate programming whilst doing this. 
+- I also added 7 characters (Antagonists - DUWENDE, TIKBALANG, MANANANGGAL, KAPRE, BAKUNAWA; Mythos God - DUMAKULEM; Alliance or Support - DIWATA, AND ENGKANTO).
+- In the next log, I think I will add a battle system. I will try to do it today or tomorrow.
+
+- END OF LOG -

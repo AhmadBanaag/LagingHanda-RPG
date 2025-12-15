@@ -1,3 +1,5 @@
+ LagingHanda: A Mythological RPG-Turn Based Games based on Philippine Mythological Creatures (DEVLOG)
+
 Devlog #1 (12-5-2025) - Beginning
 
 ## What will the game be all about?
